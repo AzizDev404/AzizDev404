@@ -83,17 +83,9 @@ Every challenge builds discipline.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AzizDev404&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&icon_color=58A6FF&title_color=3FB950&text_color=C9D1D9&bg_color=0D1117"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AzizDev404&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&bg_color=0D0D0D&title_color=BF1515&icon_color=BF1515&text_color=D9D9D9"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=AzizDev404&theme=github-dark&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizDev404&layout=compact&theme=github_dark&hide_border=true&title_color=3FB950&text_color=C9D1D9&bg_color=0D1117&langs_count=8"/>
+<img height="170" src="https://streak-stats.demolab.com?user=AzizDev404&theme=dark&background=0D0D0D&hide_border=true&ring=BF1515&fire=BF1515&currStreakLabel=D9A3A7&sideNums=D9D9D9&currStreakNum=D9D9D9&dates=D9A3A7"/>
 
 </div>
 
@@ -101,6 +93,14 @@ Every challenge builds discipline.
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=AzizDev404&theme=github-dark&bg_color=0D1117&hide_border=true&color=3FB950&line=3FB950&point=58A6FF"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizDev404&layout=compact&theme=transparent&hide_border=true&bg_color=0D0D0D&title_color=BF1515&text_color=D9D9D9"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AzizDev404&theme=github_dark"/>
 
 </div>
