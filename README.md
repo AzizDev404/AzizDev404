@@ -78,6 +78,6 @@ Every challenge builds discipline.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AzizDev404&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AzizDev404&theme=github-dark&hide_border=true&bg_color=0D1117&color=BF1515&line=BF1515&point=D9A3A7&title_color=BF1515"/>
 
 </div>
