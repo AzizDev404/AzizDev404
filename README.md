@@ -12,15 +12,11 @@
 
 <p>
 
-<a href="https://github.com/AzizDev404">
-<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=3FB950"/>
-</a>
-
 <a href="https://www.linkedin.com/in/azizdev404">
 <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=3FB950"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:u03062010@gmail.com">
 <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=3FB950"/>
 </a>
 
@@ -78,15 +74,10 @@ Every challenge builds discipline.
 </div>
 
 ---
-
 ## ⛩️ GitHub Analytics
 
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=AzizDev404&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true"/>
-
-<br><br>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AzizDev404&theme=github-dark&hide_border=true&bg_color=0D1117&color=BF1515&line=BF1515&point=D9A3A7&title_color=BF1515"/>
 
 </div>
