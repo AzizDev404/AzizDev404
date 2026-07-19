@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" style="border-radius:20px;" alt="Banner">
+<img src="./assets/banner.png" width="100%" alt="Banner">
 
 <br>
 
@@ -79,13 +79,13 @@ Every challenge builds discipline.
 
 ---
 
-# GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AzizDev404&show_icons=true&theme=github_dark&hide_border=true&icon_color=3FB950&title_color=3FB950&text_color=C9D1D9"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AzizDev404&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&icon_color=58A6FF&title_color=3FB950&text_color=C9D1D9&bg_color=0D1117"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=AzizDev404&theme=github-dark&hide_border=true&ring=3FB950&fire=3FB950&currStreakLabel=3FB950"/>
+<img height="170" src="https://streak-stats.demolab.com?user=AzizDev404&theme=github-dark&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"/>
 
 </div>
 
@@ -93,7 +93,7 @@ Every challenge builds discipline.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizDev404&layout=compact&theme=github_dark&hide_border=true&title_color=3FB950&text_color=C9D1D9"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizDev404&layout=compact&theme=github_dark&hide_border=true&title_color=3FB950&text_color=C9D1D9&bg_color=0D1117&langs_count=8"/>
 
 </div>
 
@@ -101,6 +101,6 @@ Every challenge builds discipline.
 
 <div align="center">
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=AzizDev404&theme=github-dark&hide_border=true&bg_color=0D1117&color=3FB950&line=3FB950&point=3FB950"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=AzizDev404&theme=github-dark&bg_color=0D1117&hide_border=true&color=3FB950&line=3FB950&point=58A6FF"/>
 
 </div>
