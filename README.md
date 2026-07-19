@@ -83,16 +83,10 @@ Every challenge builds discipline.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AzizDev404&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&title_color=BF1515&icon_color=BF1515&text_color=D9D9D9"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AzizDev404&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizDev404&layout=compact&theme=github_dark&hide_border=true&title_color=BF1515&text_color=D9D9D9"/>
+<br><br>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=AzizDev404&theme=onestar&no-frame=true&no-bg=true&row=1&column=6"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AzizDev404&theme=github-dark&hide_border=true&bg_color=0D1117&color=BF1515&line=BF1515&point=D9A3A7&title_color=BF1515"/>
 
 </div>
