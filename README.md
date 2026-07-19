@@ -1,56 +1,157 @@
-<h1 align="center">Hi, I'm Aziz 👋</h1>
+<div align="center">
 
-<p align="center">
-Full Stack Developer • Building Modern Web Applications • Always Learning
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=180&section=header" width="100%"/>
 
----
+<br/>
 
-# 💫 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Helvetica&size=42&duration=2600&pause=1200&color=E60023&center=true&vCenter=true&width=700&lines=AZIZ;BUILDING+RELENTLESSLY;ONE+STEP+CLOSER" alt="Typing SVG" />
 
-I'm a Full Stack Developer who enjoys turning ambitious ideas into real products.
+<br/>
 
-I believe every challenge is another opportunity to improve. That's why I constantly learn new technologies, build meaningful projects, and push beyond my comfort zone.
+<sub>SOFTWARE ENGINEER &nbsp;·&nbsp; PRODUCT BUILDER &nbsp;·&nbsp; @AzizDev404</sub>
 
-My dream is simple but ambitious: to become the **King of Developers**—not by title, but through mastery, discipline, impact, and a lifetime of continuous growth.
+</div>
 
----
+<br/>
 
-# ⚒️ Tech Stack
+<img src="https://raw.githubusercontent.com/AzizDev404/AzizDev404/main/assets/line.svg" width="100%" height="2px"/>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<br/>
 
----
+<table width="100%" border="0">
+<tr>
+<td width="70%" valign="top">
 
-# 🚀 Current Focus
+## ABOUT
 
-- Building high-quality Full Stack applications
-- Improving software architecture
-- Exploring AI-powered development
-- Creating projects that solve real problems
-- Becoming a better developer every single day
+I don't write code to fill a resume. I write code to build things that outlast the tab you closed.
 
----
+Every project is a rep. Every bug is a rival. Every release is one inch closer to a standard most people won't bother chasing.
 
-# 🌎 Let's Connect
+I care less about being called a developer and more about being undeniable — the kind of builder whose work speaks before their name does.
 
-- 💼 LinkedIn: https://linkedin.com/in/azizdev404
-- 📧 Email: u03062010@gmail.com
-- 💻 GitHub: https://github.com/AzizDev404
+No shortcuts. No noise. Just compounding skill, one shipped product at a time.
 
----
+</td>
+<td width="30%" valign="top" align="center">
 
-> **"Every project is another step closer to the developer I want to become."**
+```
+STATUS
+Currently building
+Currently improving
+Never satisfied
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/AzizDev404/AzizDev404/main/assets/line.svg" width="100%" height="2px"/>
+
+<br/>
+
+<div align="center">
+
+## STACK
+
+</div>
+
+<div align="center">
+
+**LANGUAGES**
+<br/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-0D0D0D?style=for-the-badge&logo=javascript&logoColor=E60023" />
+<img src="https://img.shields.io/badge/TYPESCRIPT-0D0D0D?style=for-the-badge&logo=typescript&logoColor=E60023" />
+<img src="https://img.shields.io/badge/PYTHON-0D0D0D?style=for-the-badge&logo=python&logoColor=E60023" />
+
+<br/><br/>
+
+**FRAMEWORKS & RUNTIME**
+<br/>
+<img src="https://img.shields.io/badge/REACT-0D0D0D?style=for-the-badge&logo=react&logoColor=E60023" />
+<img src="https://img.shields.io/badge/NEXT.JS-0D0D0D?style=for-the-badge&logo=next.js&logoColor=E60023" />
+<img src="https://img.shields.io/badge/NODE.JS-0D0D0D?style=for-the-badge&logo=node.js&logoColor=E60023" />
+<img src="https://img.shields.io/badge/NEST.JS-0D0D0D?style=for-the-badge&logo=nestjs&logoColor=E60023" />
+
+<br/><br/>
+
+**DATA & INFRASTRUCTURE**
+<br/>
+<img src="https://img.shields.io/badge/POSTGRESQL-0D0D0D?style=for-the-badge&logo=postgresql&logoColor=E60023" />
+<img src="https://img.shields.io/badge/PRISMA-0D0D0D?style=for-the-badge&logo=prisma&logoColor=E60023" />
+<img src="https://img.shields.io/badge/DOCKER-0D0D0D?style=for-the-badge&logo=docker&logoColor=E60023" />
+<img src="https://img.shields.io/badge/GIT-0D0D0D?style=for-the-badge&logo=git&logoColor=E60023" />
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/AzizDev404/AzizDev404/main/assets/line.svg" width="100%" height="2px"/>
+
+<br/>
+
+<div align="center">
+
+## METRICS
+
+<img src="https://github-readme-stats.vercel.app/api?username=AzizDev404&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=E60023&icon_color=E60023&text_color=FFFFFF&hide_title=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AzizDev404&hide_border=true&background=0D0D0D&ring=E60023&fire=E60023&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizDev404&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=E60023&text_color=FFFFFF&langs_count=8" height="165"/>
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/AzizDev404/AzizDev404/main/assets/line.svg" width="100%" height="2px"/>
+
+<br/>
+
+<div align="center">
+
+## FEATURED WORK
+
+</div>
+
+<table width="100%">
+<tr>
+<th align="left">PROJECT</th>
+<th align="left">FOCUS</th>
+<th align="left">STACK</th>
+</tr>
+<tr>
+<td>— coming soon —</td>
+<td>Full-stack product</td>
+<td>Next.js · Nest.js · PostgreSQL</td>
+</tr>
+<tr>
+<td>— coming soon —</td>
+<td>Developer tooling</td>
+<td>TypeScript · Node.js</td>
+</tr>
+<tr>
+<td>— coming soon —</td>
+<td>Learning platform</td>
+<td>React · Prisma · Docker</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/AzizDev404/AzizDev404/main/assets/line.svg" width="100%" height="2px"/>
+
+<br/>
+
+<div align="center">
+
+<sub>I'm not chasing attention. I'm chasing mastery — and letting the work do the talking.</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=100&section=footer" width="100%"/>
+
+</div>
