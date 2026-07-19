@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/banner.jpg" width="82%" alt="Banner"/>
+<img src="./assets/banner.png" width="82%" alt="Banner"/>
 
 <br>
 
-# AZIZDEV404
+# Az1z_404
 
 ### Full Stack Developer
 
@@ -102,19 +102,5 @@ Every challenge builds discipline.
 <div align="center">
 
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=AzizDev404&theme=github-dark&hide_border=true&bg_color=0D1117&color=3FB950&line=3FB950&point=3FB950"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="./assets/footer.png" width="68%" alt="Footer"/>
-
-<br><br>
-
-### Code. Learn. Build. Repeat.
-
-*"Every commit is another step toward mastery."*
 
 </div>
