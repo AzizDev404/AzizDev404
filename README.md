@@ -79,28 +79,28 @@ Every challenge builds discipline.
 
 ---
 
-## 📊 GitHub Analytics
+## ⛩️ GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AzizDev404&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&bg_color=0D0D0D&title_color=BF1515&icon_color=BF1515&text_color=D9D9D9"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=2&section=header"/>
+
+<br>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AzizDev404&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true&bg_color=0D0D0D&title_color=BF1515&text_color=D9D9D9&icon_color=BF1515"/>
 
 <img height="170" src="https://streak-stats.demolab.com?user=AzizDev404&theme=dark&background=0D0D0D&hide_border=true&ring=BF1515&fire=BF1515&currStreakLabel=D9A3A7&sideNums=D9D9D9&currStreakNum=D9D9D9&dates=D9A3A7"/>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizDev404&layout=compact&theme=transparent&hide_border=true&bg_color=0D0D0D&title_color=BF1515&text_color=D9D9D9"/>
 
-</div>
+<br><br>
 
-<br>
+<img src="https://github-profile-trophy.vercel.app/?username=AzizDev404&theme=onestar&no-frame=true&margin-w=15&margin-h=15&row=1&column=6"/>
 
-<div align="center">
+<br><br>
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AzizDev404&theme=github_dark"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=2&section=footer"/>
 
 </div>
