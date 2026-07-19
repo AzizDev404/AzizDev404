@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/banner.jpg" width="70%" alt="Banner"/>
+<img src="./assets/banner.jpeg" width="100%" alt="Banner"/>
 
 <br>
 
-# AZ1Z_404
+# Az1z_404
 
 ### Full Stack Developer
 
@@ -12,20 +12,12 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/azizdev404">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/your-linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=3FB950"/>
 </a>
 
-&nbsp;
-
-<a href="https://github.com/AzizDev404">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-161B22?style=for-the-badge&logo=gmail&logoColor=3FB950"/>
 </a>
 
 </div>
@@ -33,33 +25,33 @@
 ---
 
 <table>
-
 <tr>
 
 <td width="65%" valign="top">
 
-## About Me
+# About Me
 
-I'm a Full Stack Developer passionate about building modern, scalable, and user-focused applications.
+I'm a Full Stack Developer passionate about building modern web applications, scalable backend systems, and beautiful user experiences.
 
-I enjoy turning ambitious ideas into real products while constantly improving my skills in software engineering, backend architecture, and artificial intelligence.
+Programming is more than writing code—it's solving problems, continuously learning, and creating products that people genuinely enjoy using.
 
-For me, every project is another opportunity to learn, every bug is another lesson, and every challenge is another step toward mastery.
+Every project teaches something new.
 
-My long-term goal isn't just to write code.
+Every bug builds experience.
 
-It's to build products that people genuinely enjoy using and become a developer remembered for quality, consistency, and impact.
+Every challenge makes me a better engineer.
+
+My long-term goal is to become one of the best software engineers through consistency, discipline, and continuous improvement.
 
 </td>
 
 <td width="35%" align="center">
 
-<img src="./assets/avatar.png" width="180" alt="Avatar"/>
+<img src="./assets/avatar.png" width="185"/>
 
 </td>
 
 </tr>
-
 </table>
 
 ---
@@ -68,54 +60,56 @@ It's to build products that people genuinely enjoy using and become a developer 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,express,mongodb,postgres,prisma,supabase,tailwind,vite,git,github,figma,vercel&theme=dark&perline=10"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,express,mongodb,postgres,prisma,supabase,sqlite,tailwind,vite,git,github,figma,python,vercel,npm,pnpm,yarn,vscode,linux&theme=dark&perline=9"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React%20Native-161B22?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
-<img src="https://img.shields.io/badge/Socket.IO-000000?style=for-the-badge&logo=socket.io"/>
+<img src="https://img.shields.io/badge/Socket.IO-161B22?style=for-the-badge&logo=socketdotio&logoColor=3FB950"/>
 
-<img src="https://img.shields.io/badge/Nodemon-000000?style=for-the-badge&logo=nodemon&logoColor=76D04B"/>
-
-</div>
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AzizDev404&show_icons=true&hide_border=true&bg_color=000000&title_color=ff2d55&text_color=ffffff&icon_color=ff2d55&border_radius=15"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=AzizDev404&background=000000&stroke=ff2d55&ring=ff2d55&fire=ff2d55&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff2d55&sideLabels=ffffff&dates=9b9b9b&hide_border=true&border_radius=15"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizDev404&layout=compact&hide_border=true&bg_color=000000&title_color=ff2d55&text_color=ffffff&border_radius=15"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AzizDev404&bg_color=000000&color=ffffff&line=ff2d55&point=ff2d55&area=true&area_color=2b0000&hide_border=true"/>
+<img src="https://img.shields.io/badge/Nodemon-161B22?style=for-the-badge&logo=nodemon&logoColor=76D04B"/>
 
 </div>
 
 ---
 
+# GitHub Statistics
+
 <div align="center">
 
-### **"A king isn't made in a day. Every commit is another step forward."**
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AzizDev404&show_icons=true&theme=github_dark&hide_border=true&icon_color=3FB950&title_color=3FB950&text_color=C9D1D9"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=AzizDev404&theme=github-dark&hide_border=true&ring=3FB950&fire=3FB950&currStreakLabel=3FB950"/>
+
+</div>
 
 <br>
 
-<img src="./assets/footer.png" width="55%" alt="Footer"/>
+<div align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizDev404&layout=compact&theme=github_dark&hide_border=true&title_color=3FB950&text_color=C9D1D9"/>
+
+</div>
+
+---
+
+# Contribution Graph
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AzizDev404&bg_color=0d1117&color=3FB950&line=3FB950&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="./assets/footer.jpeg" width="60%" alt="Footer"/>
+
+<br><br>
+
+### *"A king isn't made in a day. Every commit is another step forward."*
 
 </div>
